@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248172084903",
+    "project_id": "close-eyes-and-listen",
+    "storage_bucket": "close-eyes-and-listen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248172084903:android:ade38fcbc983aefaeaa582",
+        "android_client_info": {
+          "package_name": "com.datpv134.closeeyesandlisten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248172084903-igf6a2p9gt4vq7ert4rlpit7itpakm5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datpv134.closeeyesandlisten",
+            "certificate_hash": "e69f4c36d39686626782c1b8ad14369cfe1d773f"
+          }
+        },
+        {
+          "client_id": "248172084903-u6aqb6lq9eqgmdedhs0f3d4ojt119qqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKI3Tf3jah12yuzcCSuzRIS2ys4kkUMpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248172084903-u6aqb6lq9eqgmdedhs0f3d4ojt119qqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

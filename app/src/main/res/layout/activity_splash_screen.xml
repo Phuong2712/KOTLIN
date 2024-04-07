@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/spl_background">
+
+        <TextView
+            android:id="@+id/tvAppNameLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_centerInParent="true"
+            android:textSize="26sp"
+            android:textColor="@color/white"
+            android:text="Close Eyes And Listen" />
+    </RelativeLayout>
+</layout>
